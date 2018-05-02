@@ -1,0 +1,97 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+    display:inline-block;
+    padding: 0 20px;
+}
+header nav {
+    display:inline-block;
+}
+header nav li {
+    padding: 36px;
+    border: solid 1px;
+    border-color: black;
+    background-color: dodgerblue;
+    margin-top: -1px;
+    margin-left: -5px;
+}
+
+header {
+    background-color:darkorange;
+    border: solid 1px;
+    border-color: black;
+    margin-bottom: -1px;
+}
+div {
+    background-color: wheat;
+    width: 740px;
+    display: inline-block;
+    vertical-align: top;
+    border: solid 1px;
+    border-color: black;
+    margin: 0 0 0 0;
+}
+h2 {
+    width: 250px;
+    padding: 22px;
+    border: solid 1px;
+    border-color: black;
+    margin-left: 22px;
+}
+.First {
+    width: 648px;
+    padding: 22px;
+    border: solid 1px;
+    border-color: black;
+    margin-left: 22px;
+}
+article {
+    width: 290px;
+    display: inline-block;
+    vertical-align: top;
+    border: solid 1px;
+    border-color: black;
+    padding: 22px;
+}
+#art1 {
+    margin: 20px; 
+}
+#art2 {
+    margin: 20px 20px 20px 0;
+}
+html {
+    width: 1024px;
+    margin: 0 auto;
+    padding: 0;
+}
+aside {
+    width: 259px;
+    display: inline-block;
+    vertical-align: top;
+    border: solid 1px;
+    border-color: black;
+    background-color: palegreen;
+    height:1707px;
+    margin-left: -5px;
+    padding-right: 5px;
+    margin-top: 0px;
+}
+aside ul {
+    border: solid 1px;
+    border-color: black;
+    margin: 20px;
+    padding: 30px 40px;
+}
+footer {
+    text-align: center;
+    border: solid 1px;
+    border-color: black;
+    background-color: rebeccapurple;
+    padding: 5px;
+    margin-top: -1px;
+}
+
+header nav li {
+    display: inline;
+}
