@@ -30,7 +30,6 @@ div {
     vertical-align: top;
     border: solid 1px;
     border-color: black;
-    margin: 0 0 0 0;
 }
 h2 {
     width: 250px;
@@ -63,7 +62,6 @@ article {
 html {
     width: 1024px;
     margin: 0 auto;
-    padding: 0;
 }
 aside {
     width: 259px;
